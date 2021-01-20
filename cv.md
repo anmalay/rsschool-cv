@@ -4,7 +4,7 @@
 
 ## **Contacts:**
 
-Email -	anton.malay95@gmail.com </br>
+Email -	anton.malay95@gmail.com 
 Telegram - @anmalay
 
 ## **Currently:**
@@ -22,7 +22,7 @@ I am at the stage of formation. I plan to move smoothly to Full stack. The main 
 
 ## **Technical experience:**
 
-I can work with algorithms: </br>
+I can work with algorithms:
 [list of solved problems on codewars](https://www.codewars.com/users/anmalay/completed)
 
 In programming since the beginning of 2020. Studied individually with a mentor. At the moment I am doing an internship at a startup. I am the only frontend developer on the team. I am developing a personal account for managing a user database with graph displays.
@@ -31,8 +31,8 @@ In programming since the beginning of 2020. Studied individually with a mentor. 
 
 ## **Education:**
 
-June 2013 - 2018 </br>
-Specialty <br>
+June 2013 - 2018
+Specialty
 Engineer for the operation of electrical systems and electronic automation of aircraft
 Military Training and Scientific center of the air forces
 "Military academy named after professor N. E. Zhukovsky and Y. A. Gagarin" <br>
