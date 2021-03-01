@@ -65,6 +65,10 @@ a {
   color: #428560;
 }
 
+.about__title {
+  margin-bottom: 18px;
+}
+
 .name {
   font-size: 26px;
   color: #428560;
