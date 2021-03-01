@@ -137,6 +137,9 @@ a {
   position: relative;
 }
 
+.about__title {
+  margin-bottom: 18px;
+}
 .wrapper .right {
   width: 520px;
   background: #fff;
